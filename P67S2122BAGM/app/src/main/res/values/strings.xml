@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P67S2122JDGA</string>
+    <string name="esc">TESOEM</string>
+    <string name="titulop1">Menu de opciones</string>
+    <string name="titulosuma">Suma de dos numeros</string>
+    <string name="num1">Ingrese el primer numero</string>
+    <string name="num2">Ingrese el segundo numero</string>
+    <string name="lblcalcular">Calcular</string>
+    <string name="hitnum1">Numero 1</string>
+    <string name="hitnum2">Numero 2</string>
+</resources>
